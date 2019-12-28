@@ -16,3 +16,6 @@ while a<9:
         if a>=b:
             print('%d×%d=%d'%(b,a,b*a),end='\t')
     print()
+1
+2
+3
